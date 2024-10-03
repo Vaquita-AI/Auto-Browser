@@ -1,0 +1,120 @@
+Television
+Air Conditioner
+Refrigerator
+Washing Machine
+Microwave Oven
+Dishwasher
+Vacuum Cleaner
+Coffee Maker
+Blender
+Toaster
+Electric Kettle
+Hair Dryer
+Electric Shaver
+Iron
+Sewing Machine
+Water Purifier
+Air Purifier
+Ceiling Fan
+Space Heater
+Humidifier
+Dehumidifier
+Electric Grill
+Slow Cooker
+Rice Cooker
+Pressure Cooker
+Juicer
+Food Processor
+Stand Mixer
+Hand Mixer
+Bread Maker
+Ice Cream Maker
+Popcorn Maker
+Deep Fryer
+Electric Skillet
+Induction Cooktop
+Electric Stove
+Gas Stove
+Oven
+Range Hood
+Dishwasher Detergent
+Laundry Detergent
+Fabric Softener
+Stain Remover
+Dish Soap
+Hand Soap
+Shampoo
+Conditioner
+Body Wash
+Toothpaste
+Mouthwash
+Deodorant
+Razor
+Sunscreen
+Moisturizer
+Face Wash
+Eye Cream
+Lip Balm
+Makeup Remover
+Foundation
+Concealer
+Mascara
+Eyeliner
+Eyeshadow
+Blush
+Lipstick
+Nail Polish
+Hair Spray
+Hair Gel
+Hair Mousse
+Hair Serum
+Hair Mask
+Hair Oil
+Hair Color
+Hair Brush
+Comb
+Hair Clips
+Hair Bands
+Hair Extensions
+Wig
+Hair Straightener
+Hair Curler
+Hair Crimper
+Hair Dryer Brush
+Hair Diffuser
+Hair Steamer
+Hair Removal Cream
+Epilator
+Wax Strips
+Tweezers
+Nail Clippers
+Nail File
+Cuticle Pusher
+Nail Buffer
+Nail Art Kit
+Nail Polish Remover
+Foot Spa
+Foot Scrubber
+Foot Cream
+Callus Remover
+Pedicure Kit
+Smartphone
+Laptop
+Headphones
+Memory Card
+Smartwatch
+Bluetooth Speaker
+Tablet
+Camera
+Printer
+Monitor
+Keyboard
+Mouse
+External Hard Drive
+USB Flash Drive
+Gaming Console
+Fitness Tracker
+E-reader
+Wireless Charger
+Home Security Camera
+Smart Home Device
